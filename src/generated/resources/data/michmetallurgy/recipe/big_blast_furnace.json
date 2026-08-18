@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:bricks"
+    },
+    "C": {
+      "item": "michmetallurgy:blast_furnace_casing"
+    },
+    "F": {
+      "item": "minecraft:blast_furnace"
+    }
+  },
+  "pattern": [
+    "FBF",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "michmetallurgy:big_blast_furnace"
+  }
+}

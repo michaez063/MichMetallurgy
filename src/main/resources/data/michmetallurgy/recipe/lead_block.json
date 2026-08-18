@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "L": {
+      "item": "michmetallurgy:lead_ingot"
+    }
+  },
+  "pattern": [
+    "LLL",
+    "LLL",
+    "LLL"
+  ],
+  "result": {
+    "count": 1,
+    "id": "michmetallurgy:lead_block"
+  }
+}

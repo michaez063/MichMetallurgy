@@ -1,0 +1,17 @@
+{
+  "type": "michmetallurgy:big_blast_furnace",
+  "cookingTime": 166,
+  "count1": 2,
+  "count2": 1,
+  "experience": 1.0,
+  "ingredient1": {
+    "item": "minecraft:raw_copper"
+  },
+  "ingredient2": {
+    "item": "michmetallurgy:raw_zinc"
+  },
+  "result": {
+    "count": 2,
+    "id": "michmetallurgy:brass_ingot"
+  }
+}

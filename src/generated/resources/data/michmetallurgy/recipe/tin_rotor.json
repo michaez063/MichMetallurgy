@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "I": {
+      "item": "michmetallurgy:tin_ingot"
+    },
+    "N": {
+      "item": "michmetallurgy:tin_nugget"
+    }
+  },
+  "pattern": [
+    " I ",
+    "INI",
+    " I "
+  ],
+  "result": {
+    "count": 1,
+    "id": "michmetallurgy:tin_rotor"
+  }
+}

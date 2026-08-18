@@ -1,0 +1,22 @@
+{
+  "type": "michmetallurgy:big_blast_furnace",
+  "ingredients": [
+    {
+      "count": 3,
+      "ingredient": {
+        "item": "minecraft:raw_copper"
+      }
+    },
+    {
+      "count": 1,
+      "ingredient": {
+        "item": "michmetallurgy:raw_tin"
+      }
+    }
+  ],
+  "result": {
+    "count": 3,
+    "id": "michmetallurgy:bronze_ingot"
+  },
+  "cookingtime": 200
+}

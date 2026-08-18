@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "michmetallurgy:block/big_blast_furnace_side",
+    "east": "michmetallurgy:block/big_blast_furnace_side",
+    "north": "michmetallurgy:block/big_blast_furnace_front",
+    "particle": "michmetallurgy:block/big_blast_furnace_side",
+    "south": "michmetallurgy:block/big_blast_furnace_side",
+    "up": "michmetallurgy:block/big_blast_furnace_side",
+    "west": "michmetallurgy:block/big_blast_furnace_side"
+  }
+}

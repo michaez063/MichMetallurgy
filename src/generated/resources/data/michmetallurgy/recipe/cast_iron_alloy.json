@@ -1,0 +1,17 @@
+{
+  "type": "michmetallurgy:big_blast_furnace",
+  "cookingTime": 266,
+  "count1": 1,
+  "count2": 1,
+  "experience": 1.0,
+  "ingredient1": {
+    "item": "minecraft:raw_iron"
+  },
+  "ingredient2": {
+    "item": "michmetallurgy:coke_coal"
+  },
+  "result": {
+    "count": 1,
+    "id": "michmetallurgy:cast_iron_ingot"
+  }
+}

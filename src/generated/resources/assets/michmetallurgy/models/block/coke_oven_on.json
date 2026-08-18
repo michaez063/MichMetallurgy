@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "michmetallurgy:block/coke_oven_side",
+    "east": "michmetallurgy:block/coke_oven_side",
+    "north": "michmetallurgy:block/coke_oven_front_on",
+    "particle": "michmetallurgy:block/coke_oven_side",
+    "south": "michmetallurgy:block/coke_oven_side",
+    "up": "michmetallurgy:block/coke_oven_side",
+    "west": "michmetallurgy:block/coke_oven_side"
+  }
+}

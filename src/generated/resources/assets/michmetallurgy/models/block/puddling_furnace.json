@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "down": "michmetallurgy:block/puddling_furnace_side",
+    "east": "michmetallurgy:block/puddling_furnace_side",
+    "north": "michmetallurgy:block/puddling_furnace_front",
+    "particle": "michmetallurgy:block/puddling_furnace_side",
+    "south": "michmetallurgy:block/puddling_furnace_side",
+    "up": "michmetallurgy:block/puddling_furnace_side",
+    "west": "michmetallurgy:block/puddling_furnace_side"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "values": [
+    "michmetallurgy:lead_ore",
+    "michmetallurgy:deepslate_lead_ore",
+    "michmetallurgy:tin_ore",
+    "michmetallurgy:deepslate_tin_ore",
+    "michmetallurgy:lead_block",
+    "michmetallurgy:tin_block",
+    "michmetallurgy:raw_lead_block",
+    "michmetallurgy:raw_tin_block",
+    "michmetallurgy:zinc_ore",
+    "michmetallurgy:deepslate_zinc_ore",
+    "michmetallurgy:zinc_block",
+    "michmetallurgy:raw_zinc_block",
+    "michmetallurgy:big_blast_furnace",
+    "michmetallurgy:blast_furnace_casing",
+    "michmetallurgy:coke_oven",
+    "michmetallurgy:puddling_furnace"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": [
+    {
+      "item": "michmetallurgy:zinc_ore"
+    },
+    {
+      "item": "michmetallurgy:deepslate_zinc_ore"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "michmetallurgy:zinc_ingot"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "B": {
+      "item": "minecraft:brick"
+    },
+    "R": {
+      "item": "michmetallurgy:tin_rotor"
+    }
+  },
+  "pattern": [
+    "BRB",
+    "B B",
+    "BRB"
+  ],
+  "result": {
+    "count": 1,
+    "id": "michmetallurgy:air_duct"
+  }
+}

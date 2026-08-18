@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "michmetallurgy:item/tin_nugget"
+  }
+}

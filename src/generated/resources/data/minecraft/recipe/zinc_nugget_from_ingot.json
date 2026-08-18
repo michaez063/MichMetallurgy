@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "michmetallurgy:zinc_ingot"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "michmetallurgy:zinc_nugget"
+  }
+}

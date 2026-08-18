@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "B": {
+      "item": "minecraft:bricks"
+    },
+    "F": {
+      "item": "minecraft:furnace"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "IBI",
+    "BFB",
+    "IBI"
+  ],
+  "result": {
+    "count": 1,
+    "id": "michmetallurgy:blast_furnace_casing"
+  }
+}
